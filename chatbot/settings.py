@@ -26,7 +26,7 @@ SECRET_KEY = '7sv8u8%!ah3reqzmp@-fwysw37zrhh4cwb_sb88ce(c^zo&$qu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','']
+ALLOWED_HOSTS = ['127.0.0.1','mybotrasa.herokuapp.com/']
 
 
 # Application definition
