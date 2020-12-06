@@ -73,8 +73,7 @@ Markdown==3.1.1
 matplotlib==3.2.1
 mattermostwrapper==2.2
 mccabe==0.6.1
-mkl-fft==1.0.15
-https://pypi.org/project/mkl-fft/1.0.2/#files
+mkl-fft==1.0.2
 mkl-random==1.1.1
 mkl-service==2.3.0
 multidict==4.7.6
