@@ -1,0 +1,2 @@
+rasa run -m rasabot --enable-api --cors "*" --debug
+python ./manage.py runserver 
